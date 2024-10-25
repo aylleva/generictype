@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\bin\Debug\net6.0\Listtask.exe
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\bin\Debug\net6.0\Listtask.deps.json
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\bin\Debug\net6.0\Listtask.runtimeconfig.json
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\bin\Debug\net6.0\Listtask.dll
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\bin\Debug\net6.0\Listtask.pdb
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\obj\Debug\net6.0\Listtask.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\obj\Debug\net6.0\Listtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\obj\Debug\net6.0\Listtask.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\obj\Debug\net6.0\Listtask.AssemblyInfo.cs
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\obj\Debug\net6.0\Listtask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\obj\Debug\net6.0\Listtask.dll
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\obj\Debug\net6.0\refint\Listtask.dll
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\obj\Debug\net6.0\Listtask.pdb
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\obj\Debug\net6.0\Listtask.genruntimeconfig.cache
+C:\Users\user\Desktop\listarraytask\Listtask\Listtask\obj\Debug\net6.0\ref\Listtask.dll
